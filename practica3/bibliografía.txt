@@ -1,0 +1,20 @@
+Nota:
+
+Nuestras busquedas se limitan a entender más en profundidad las funciones que ofrece MPI o arreglar errores, por lo que todo el código de las prácticas es
+nuestro al 100% salvo que se indique lo contrario. 
+
+MPI_Bcast:
+    - https://lsi2.ugr.es/jmantas/ppr/ayuda/mpi_ayuda.php?ayuda=MPI_Bcast
+    - https://www.mpich.org/static/docs/latest/www3/MPI_Bcast.html
+MPI_Scatter:
+    - https://lsi2.ugr.es/jmantas/ppr/ayuda/mpi_ayuda.php?ayuda=MPI_Scatter
+    - https://www.mpich.org/static/docs/latest/www3/MPI_Scatter.html
+MPI_Gather:
+    - https://lsi2.ugr.es/jmantas/ppr/ayuda/mpi_ayuda.php?ayuda=MPI_Gather
+    - https://www.mpich.org/static/docs/latest/www3/MPI_Gather.html
+MPI_Allgather:
+    - https://www.mpich.org/static/docs/latest/www3/MPI_Allgather.html
+MPI_Reduce:
+
+MPI_Barrier:
+    https://stackoverflow.com/questions/29019744/output-isnt-ordered-parallel-programing-with-mpi
