@@ -1,0 +1,5 @@
+MPI_Allgather:
+    - https://www.mpich.org/static/docs/latest/www3/MPI_Allgather.html
+
+MPI_Alltoall:
+    - https://www.mpich.org/static/docs/v3.1.x/www3/MPI_Alltoall.html
